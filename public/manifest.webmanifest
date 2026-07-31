@@ -1,0 +1,12 @@
+{
+  "name": "Portal Rasmi Kerajaan Inderaloka",
+  "short_name": "Inderaloka",
+  "description": "Portal rasmi perkhidmatan, berita dan maklumat Kerajaan Inderaloka.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#073f3a",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
