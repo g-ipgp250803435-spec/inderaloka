@@ -1,0 +1,249 @@
+{
+  "site": {
+    "name": "Kerajaan Inderaloka",
+    "shortName": "Inderaloka",
+    "portalTitle": "Portal Rasmi Kerajaan Inderaloka",
+    "tagline": "Berdaulat, Makmur, Sejahtera",
+    "description": "Portal rasmi bagi perkhidmatan, maklumat, berita dan dokumen Kerajaan Inderaloka.",
+    "logo": "/emblem.svg",
+    "favicon": "/favicon.svg",
+    "primaryColor": "#073f3a",
+    "accentColor": "#d7b463",
+    "officialDomain": "www.inderaloka.gov.il",
+    "contactEmail": "pertanyaan@inderaloka.gov.il",
+    "contactPhone": "+60 3 8000 2026",
+    "address": "Kompleks Pentadbiran Negara, Putra Indera, Inderaloka",
+    "emergency": {
+      "enabled": true,
+      "level": "info",
+      "title": "Makluman Portal",
+      "message": "Portal ini ialah demonstrasi rasmi Inderaloka dan boleh diubah melalui Content Studio.",
+      "href": "/tentang"
+    }
+  },
+  "navigation": [
+    { "label": "Utama", "href": "/" },
+    { "label": "Kerajaan", "href": "/kerajaan" },
+    { "label": "Perkhidmatan", "href": "/perkhidmatan" },
+    { "label": "Berita", "href": "/berita" },
+    { "label": "Kementerian", "href": "/kementerian" },
+    { "label": "Dokumen", "href": "/dokumen" }
+  ],
+  "home": {
+    "eyebrow": "Negara moden, pentadbiran beramanah",
+    "heroTitle": "Kerajaan yang dekat dengan rakyat, dibina untuk masa hadapan.",
+    "heroText": "Dapatkan perkhidmatan awam, maklumat dasar, berita rasmi dan dokumen negara melalui satu pintu digital yang selamat dan mudah digunakan.",
+    "primaryCta": { "label": "Terokai perkhidmatan", "href": "/perkhidmatan" },
+    "secondaryCta": { "label": "Kenali kerajaan", "href": "/kerajaan" },
+    "stats": [
+      { "value": "8.4 juta", "label": "Penduduk" },
+      { "value": "12", "label": "Wilayah pentadbiran" },
+      { "value": "96%", "label": "Perkhidmatan tersedia dalam talian" },
+      { "value": "24/7", "label": "Akses portal rakyat" }
+    ],
+    "priorities": [
+      { "title": "Ekonomi bernilai tinggi", "description": "Mengembangkan industri masa hadapan, perusahaan tempatan dan pekerjaan berkualiti.", "icon": "growth" },
+      { "title": "Rakyat sejahtera", "description": "Perkhidmatan kesihatan, pendidikan dan perlindungan sosial yang mudah dicapai.", "icon": "people" },
+      { "title": "Kerajaan berintegriti", "description": "Keputusan telus, data terbuka dan perbelanjaan awam yang boleh dipertanggungjawabkan.", "icon": "shield" }
+    ],
+    "messageTitle": "Membina keyakinan melalui penyampaian",
+    "messageBody": "Pentadbiran Inderaloka berpegang pada prinsip bahawa setiap dasar mesti diterjemahkan kepada hasil yang dapat dirasai rakyat. Portal ini direka untuk memendekkan jarak antara institusi kerajaan dengan masyarakat."
+  },
+  "services": [
+    { "id": "passport", "title": "Pasport dan perjalanan", "description": "Permohonan, pembaharuan dan semakan status dokumen perjalanan.", "category": "Identiti", "icon": "passport", "href": "/halaman/pasport-dan-perjalanan", "popular": true },
+    { "id": "business", "title": "Daftar perniagaan", "description": "Tubuhkan syarikat, semak nama dan urus lesen perniagaan.", "category": "Perniagaan", "icon": "building", "href": "/halaman/daftar-perniagaan", "popular": true },
+    { "id": "tax", "title": "Cukai dan hasil", "description": "Hantar taksiran, buat bayaran dan semak insentif yang tersedia.", "category": "Kewangan", "icon": "wallet", "href": "/halaman/cukai-dan-hasil", "popular": true },
+    { "id": "health", "title": "Kesihatan awam", "description": "Temujanji, fasiliti kesihatan, vaksinasi dan maklumat kesihatan.", "category": "Kesihatan", "icon": "health", "href": "/halaman/kesihatan-awam", "popular": true },
+    { "id": "education", "title": "Pendidikan dan biasiswa", "description": "Kemasukan sekolah, bantuan pendidikan dan peluang pengajian.", "category": "Pendidikan", "icon": "book", "href": "/halaman/pendidikan-dan-biasiswa" },
+    { "id": "jobs", "title": "Pekerjaan dan kerjaya", "description": "Cari pekerjaan, latihan kemahiran dan khidmat pasaran buruh.", "category": "Pekerjaan", "icon": "briefcase", "href": "/halaman/pekerjaan-dan-kerjaya" },
+    { "id": "housing", "title": "Perumahan rakyat", "description": "Permohonan perumahan, bantuan sewa dan maklumat pemilikan rumah.", "category": "Kesejahteraan", "icon": "home", "href": "/halaman/perumahan-rakyat" },
+    { "id": "complaints", "title": "Aduan dan maklum balas", "description": "Sampaikan pertanyaan, aduan atau cadangan kepada agensi berkaitan.", "category": "Kerajaan", "icon": "message", "href": "/halaman/aduan-dan-maklum-balas" }
+  ],
+  "news": [
+    {
+      "slug": "pelan-pembangunan-inderaloka-2035",
+      "title": "Kerajaan melancarkan Pelan Pembangunan Inderaloka 2035",
+      "excerpt": "Pelan nasional baharu memberi tumpuan kepada produktiviti, daya tahan iklim dan kemakmuran yang dikongsi bersama.",
+      "date": "2026-07-28",
+      "category": "Dasar Nasional",
+      "ministry": "Pejabat Perdana Menteri",
+      "featured": true,
+      "body": [
+        "Kerajaan Inderaloka hari ini memperkenalkan Pelan Pembangunan Inderaloka 2035 sebagai kerangka pembangunan jangka panjang negara.",
+        "Pelan tersebut menggabungkan sasaran ekonomi, sosial, digital dan alam sekitar dalam satu sistem penyampaian yang akan dilaporkan secara berkala kepada rakyat.",
+        "Setiap kementerian akan menerbitkan petunjuk prestasi utama dan kemajuan pelaksanaan melalui portal data terbuka kerajaan."
+      ]
+    },
+    {
+      "slug": "pusat-perkhidmatan-digital-rakyat",
+      "title": "Pusat Perkhidmatan Digital Rakyat diperluas ke semua wilayah",
+      "excerpt": "Penduduk boleh mendapatkan bantuan bersemuka untuk menggunakan perkhidmatan kerajaan digital.",
+      "date": "2026-07-22",
+      "category": "Perkhidmatan Awam",
+      "ministry": "Kementerian Inovasi dan Digital",
+      "body": [
+        "Kerajaan akan membuka pusat bantuan digital di setiap wilayah bagi memastikan tiada rakyat tersisih daripada perkhidmatan dalam talian.",
+        "Pusat tersebut menyediakan kemudahan peranti, sambungan internet serta pegawai bantuan terlatih."
+      ]
+    },
+    {
+      "slug": "skim-biasiswa-generasi-masa-hadapan",
+      "title": "Permohonan Skim Biasiswa Generasi Masa Hadapan kini dibuka",
+      "excerpt": "Biasiswa memberi keutamaan kepada bidang sains, teknologi, penjagaan kesihatan dan pentadbiran awam.",
+      "date": "2026-07-16",
+      "category": "Pendidikan",
+      "ministry": "Kementerian Pendidikan dan Ilmu",
+      "body": [
+        "Permohonan biasiswa nasional dibuka kepada warganegara yang memenuhi syarat akademik dan sosioekonomi.",
+        "Penerima akan mendapat sokongan yuran, sara hidup dan penempatan industri."
+      ]
+    },
+    {
+      "slug": "laporan-prestasi-suku-kedua",
+      "title": "Laporan prestasi kerajaan suku kedua diterbitkan",
+      "excerpt": "Laporan memaparkan kemajuan 24 keutamaan utama, termasuk masa menunggu hospital dan kelulusan lesen.",
+      "date": "2026-07-08",
+      "category": "Ketelusan",
+      "ministry": "Pejabat Kabinet",
+      "body": [
+        "Laporan prestasi suku kedua kini boleh diakses oleh orang ramai sebagai sebahagian daripada komitmen kerajaan terhadap keterbukaan.",
+        "Data akan dikemas kini setiap tiga bulan dan disertai penjelasan bagi sasaran yang belum dicapai."
+      ]
+    }
+  ],
+  "ministries": [
+    { "slug": "kewangan", "name": "Kementerian Kewangan dan Perbendaharaan", "shortName": "MOF", "minister": "YB Datin Seri Amina Rahman", "portfolio": "Kewangan negara", "description": "Mengurus belanjawan, percukaian, perbendaharaan, hutang awam dan aset negara.", "icon": "wallet" },
+    { "slug": "luar-negeri", "name": "Kementerian Luar Negeri dan Kerjasama Antarabangsa", "shortName": "MFA", "minister": "YB Dato' Idris Mahendra", "portfolio": "Diplomasi", "description": "Memajukan kepentingan Inderaloka melalui diplomasi, perdagangan dan kerjasama antarabangsa.", "icon": "globe" },
+    { "slug": "dalam-negeri", "name": "Kementerian Dalam Negeri dan Perlindungan Awam", "shortName": "MOHA", "minister": "YB Puan Suraya Khalid", "portfolio": "Keselamatan awam", "description": "Menyelaras keselamatan, imigresen, perlindungan awam dan pengurusan bencana.", "icon": "shield" },
+    { "slug": "kesihatan", "name": "Kementerian Kesihatan dan Penjagaan", "shortName": "MOH", "minister": "YB Dr. Farid Iskandar", "portfolio": "Kesihatan", "description": "Memastikan akses kepada penjagaan primer, hospital, kesihatan awam dan ubat-ubatan.", "icon": "health" },
+    { "slug": "pendidikan", "name": "Kementerian Pendidikan, Ilmu dan Kebudayaan", "shortName": "MOE", "minister": "YB Prof. Laila Hamzah", "portfolio": "Pendidikan", "description": "Membangunkan pendidikan, kemahiran, penyelidikan, seni, budaya dan warisan.", "icon": "book" },
+    { "slug": "infrastruktur", "name": "Kementerian Infrastruktur, Pengangkutan dan Perumahan", "shortName": "MIH", "minister": "YB Tuan Arman Wijaya", "portfolio": "Infrastruktur", "description": "Menyediakan rangkaian pengangkutan, infrastruktur awam dan perumahan berkualiti.", "icon": "building" },
+    { "slug": "digital", "name": "Kementerian Inovasi, Digital dan Komunikasi", "shortName": "MIDC", "minister": "YB Puan Nadia Sulaiman", "portfolio": "Digital", "description": "Memacu inovasi, ekonomi digital, telekomunikasi dan perkhidmatan kerajaan digital.", "icon": "spark" },
+    { "slug": "alam-sekitar", "name": "Kementerian Tenaga, Iklim dan Alam Sekitar", "shortName": "MECE", "minister": "YB Dr. Rizal Mahmud", "portfolio": "Iklim dan tenaga", "description": "Mengurus tenaga, air, biodiversiti, perubahan iklim dan perlindungan alam sekitar.", "icon": "leaf" }
+  ],
+  "documents": [
+    { "id": "budget-2026", "title": "Ringkasan Belanjawan Inderaloka 2026", "category": "Belanjawan", "date": "2026-06-18", "format": "TXT", "size": "1 KB", "href": "/documents/belanjawan-ringkas-2026.txt" },
+    { "id": "plan-2035", "title": "Pelan Pembangunan Inderaloka 2035", "category": "Strategi", "date": "2026-07-28", "format": "Web", "size": "—", "href": "/halaman/pelan-pembangunan-2035" },
+    { "id": "constitution", "title": "Perlembagaan Negara Inderaloka", "category": "Perundangan", "date": "2026-01-01", "format": "Web", "size": "—", "href": "/halaman/perlembagaan-inderaloka" },
+    { "id": "service-standard", "title": "Piawaian Penyampaian Perkhidmatan Awam", "category": "Pentadbiran", "date": "2026-05-12", "format": "Web", "size": "—", "href": "/halaman/piawaian-perkhidmatan-awam" }
+  ],
+  "cabinet": [
+    { "name": "Tuan Malik Zafran", "role": "Perdana Menteri", "portfolio": "Ketua Kerajaan dan penyelarasan nasional" },
+    { "name": "Datin Seri Amina Rahman", "role": "Menteri Kewangan", "portfolio": "Kewangan dan Perbendaharaan" },
+    { "name": "Dato' Idris Mahendra", "role": "Menteri Luar Negeri", "portfolio": "Hubungan luar dan kerjasama antarabangsa" },
+    { "name": "Puan Suraya Khalid", "role": "Menteri Dalam Negeri", "portfolio": "Keselamatan dan perlindungan awam" },
+    { "name": "Dr. Farid Iskandar", "role": "Menteri Kesihatan", "portfolio": "Kesihatan dan penjagaan" },
+    { "name": "Prof. Laila Hamzah", "role": "Menteri Pendidikan", "portfolio": "Pendidikan, ilmu dan kebudayaan" }
+  ],
+  "pages": [
+    {
+      "slug": "pasport-dan-perjalanan",
+      "title": "Pasport dan perjalanan",
+      "eyebrow": "Perkhidmatan identiti",
+      "summary": "Panduan ringkas untuk permohonan dan pembaharuan pasport Inderaloka.",
+      "showInNav": false,
+      "navLabel": "Pasport",
+      "sections": [
+        { "heading": "Sebelum memohon", "body": ["Pastikan maklumat dalam daftar penduduk adalah tepat dan sediakan gambar serta dokumen sokongan yang diperlukan."], "bullets": ["Kad pengenalan yang sah", "Gambar pasport terkini", "Bayaran permohonan", "Dokumen penjaga bagi pemohon bawah umur"] },
+        { "heading": "Cara permohonan", "body": ["Permohonan boleh dimulakan secara dalam talian. Pemohon akan menerima nombor rujukan dan arahan bagi pengesahan biometrik."] }
+      ]
+    },
+    {
+      "slug": "daftar-perniagaan",
+      "title": "Daftar perniagaan",
+      "eyebrow": "Perkhidmatan perniagaan",
+      "summary": "Tubuhkan perniagaan baharu melalui proses bersepadu dan telus.",
+      "showInNav": false,
+      "navLabel": "Daftar Perniagaan",
+      "sections": [
+        { "heading": "Proses asas", "body": ["Pilih struktur perniagaan, semak nama, berikan maklumat pemilik sebenar dan bayar fi pendaftaran."], "bullets": ["Semakan nama", "Pendaftaran entiti", "Nombor cukai", "Lesen sektor jika diperlukan"] }
+      ]
+    },
+    {
+      "slug": "cukai-dan-hasil",
+      "title": "Cukai dan hasil",
+      "eyebrow": "Kewangan rakyat",
+      "summary": "Maklumat pemfailan, pembayaran dan bantuan cukai.",
+      "showInNav": false,
+      "navLabel": "Cukai",
+      "sections": [{ "heading": "Urus cukai anda", "body": ["Portal hasil membolehkan pembayar cukai menyemak rekod, menghantar taksiran dan membuat pembayaran dengan selamat."] }]
+    },
+    {
+      "slug": "kesihatan-awam",
+      "title": "Kesihatan awam",
+      "eyebrow": "Kesihatan dan penjagaan",
+      "summary": "Akses kepada fasiliti, temujanji dan maklumat kesihatan rasmi.",
+      "showInNav": false,
+      "navLabel": "Kesihatan",
+      "sections": [{ "heading": "Dapatkan rawatan", "body": ["Hubungi talian kecemasan bagi keadaan yang mengancam nyawa. Bagi rawatan biasa, cari klinik terdekat atau buat temujanji melalui sistem kesihatan digital."] }]
+    },
+    {
+      "slug": "pendidikan-dan-biasiswa",
+      "title": "Pendidikan dan biasiswa",
+      "eyebrow": "Peluang pembelajaran",
+      "summary": "Maklumat kemasukan, bantuan pendidikan dan biasiswa nasional.",
+      "showInNav": false,
+      "navLabel": "Pendidikan",
+      "sections": [{ "heading": "Peluang untuk semua", "body": ["Kerajaan menyediakan laluan pendidikan dari peringkat awal hingga pendidikan tinggi, termasuk bantuan untuk keluarga yang memerlukan."] }]
+    },
+    {
+      "slug": "pekerjaan-dan-kerjaya",
+      "title": "Pekerjaan dan kerjaya",
+      "eyebrow": "Pasaran buruh",
+      "summary": "Cari pekerjaan, latihan dan bantuan kerjaya.",
+      "showInNav": false,
+      "navLabel": "Kerjaya",
+      "sections": [{ "heading": "Bina kerjaya", "body": ["Daftar profil kemahiran, temui peluang pekerjaan dan sertai latihan yang diiktiraf industri."] }]
+    },
+    {
+      "slug": "perumahan-rakyat",
+      "title": "Perumahan rakyat",
+      "eyebrow": "Kesejahteraan",
+      "summary": "Program pemilikan, bantuan sewa dan perumahan komuniti.",
+      "showInNav": false,
+      "navLabel": "Perumahan",
+      "sections": [{ "heading": "Pilihan bantuan", "body": ["Kelayakan ditentukan berdasarkan pendapatan isi rumah, saiz keluarga dan keadaan tempat tinggal semasa."] }]
+    },
+    {
+      "slug": "aduan-dan-maklum-balas",
+      "title": "Aduan dan maklum balas",
+      "eyebrow": "Suara rakyat",
+      "summary": "Salurkan pertanyaan, aduan dan cadangan kepada kerajaan.",
+      "showInNav": false,
+      "navLabel": "Aduan",
+      "sections": [{ "heading": "Apa yang perlu disertakan", "body": ["Berikan maklumat yang jelas, tarikh kejadian, agensi terlibat dan dokumen sokongan. Anda akan menerima nombor rujukan untuk semakan status."] }]
+    },
+    {
+      "slug": "pelan-pembangunan-2035",
+      "title": "Pelan Pembangunan Inderaloka 2035",
+      "eyebrow": "Strategi nasional",
+      "summary": "Arah pembangunan jangka panjang bagi ekonomi produktif, masyarakat sejahtera dan negara berdaya tahan.",
+      "showInNav": true,
+      "navLabel": "Wawasan 2035",
+      "sections": [
+        { "heading": "Tiga hasil nasional", "body": ["Pelan ini menyatukan tindakan kerajaan di bawah hasil yang boleh diukur."], "bullets": ["Ekonomi bernilai tinggi dan inklusif", "Perkhidmatan manusia yang berkualiti", "Alam sekitar dan institusi yang berdaya tahan"] },
+        { "heading": "Pelaporan kepada rakyat", "body": ["Kemajuan akan diterbitkan setiap suku tahun bersama data, penjelasan dan langkah pembetulan."] }
+      ]
+    },
+    {
+      "slug": "perlembagaan-inderaloka",
+      "title": "Perlembagaan Negara Inderaloka",
+      "eyebrow": "Undang-undang tertinggi",
+      "summary": "Asas pemerintahan demokratik, hak rakyat dan pembahagian kuasa negara.",
+      "showInNav": true,
+      "navLabel": "Perlembagaan",
+      "sections": [
+        { "heading": "Prinsip utama", "body": ["Inderaloka ialah negara demokratik berparlimen yang menegakkan kedaulatan undang-undang, maruah manusia dan pentadbiran yang bertanggungjawab."], "bullets": ["Pemisahan kuasa", "Hak dan kebebasan asas", "Pilihan raya yang bebas", "Kehakiman yang bebas", "Kerajaan tempatan yang demokratik"] }
+      ]
+    },
+    {
+      "slug": "piawaian-perkhidmatan-awam",
+      "title": "Piawaian Penyampaian Perkhidmatan Awam",
+      "eyebrow": "Pentadbiran berorientasikan rakyat",
+      "summary": "Komitmen minimum bagi mutu, masa tindak balas dan ketelusan perkhidmatan kerajaan.",
+      "showInNav": false,
+      "navLabel": "Piawaian Perkhidmatan",
+      "sections": [{ "heading": "Komitmen kerajaan", "body": ["Setiap agensi perlu menerbitkan tempoh perkhidmatan, saluran rayuan, pemilik perkhidmatan dan data prestasi."] }]
+    }
+  ]
+}
